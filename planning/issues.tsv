@@ -1,0 +1,11 @@
+title	body	labels	milestone
+Scaffold repository structure	Run scripts/scaffold.sh and commit	docs;chore;priority:P0	v0.1 Bootstrap & System
+Write root README	Describe structure, conventions, usage	docs;priority:P1	v0.1 Bootstrap & System
+Filesystem Basics sheet	Populate essentials + patterns + scenarios	docs;feat;area:system;priority:P1	v0.1 Bootstrap & System
+Git sheet	Branching, rebase, bisect, restore	docs;feat;area:dev;priority:P1	v0.1 Bootstrap & System
+Docker sheet essentials	Images/containers/compose patterns	docs;feat;area:devops;priority:P1	v0.3 DevOps
+React sheet	CLI ops: create, dev, build, router	docs;feat;area:dev;priority:P1	v0.2 Dev & Frontend
+JSON/YAML CLI sheet	jq/yq transforms and filters	docs;feat;area:system;priority:P2	v0.1 Bootstrap & System
+AWS CLI basics	Auth/profiles/s3/ec2 minimal	docs;feat;area:cloud;priority:P2	v0.4 Databases & Cloud
+Debian apt sheet	Update/upgrade/install patterns	docs;feat;area:os;priority:P3	v0.5 OS & Bonus
+Automation polish	TOC generator, CI markdown lint	ci;chore;priority:P2	v0.6 Polish & Automation
